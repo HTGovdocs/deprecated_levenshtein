@@ -15,8 +15,9 @@ bundle install --path .bundle
 
 Use
 ---
-bundle exec ruby leven.rb <agency_list> <hathi_file> <output_file>
-bundle exec ruby CIC_leven.rb <agency_list> <cic_file.json> <output_file>
+bundle exec ruby leven.rb &lt;agency_list&gt; &lt;hathi_file&gt; &lt;output_file&gt;
+
+bundle exec ruby CIC_leven.rb &lt;agency_list&gt; &lt;cic_file.json&gt; &lt;output_file&gt;
 
 
 
